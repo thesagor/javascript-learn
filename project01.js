@@ -1,6 +1,9 @@
-//ODD number collect 
+//using break to stopped program
 var x=0;
-while(x<=10){    
+while(true){
     console.log(x);
-    x+=2;
+    if(10==x){
+        break;
+    }
+    x++;
 }
