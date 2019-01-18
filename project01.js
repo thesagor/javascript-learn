@@ -1,6 +1,6 @@
-//the difference of ++i betwen i++;
-var i=10;
-var x;
-x=i++
-console.log(x);
-console.log(i);
+var x=0;
+while(x<=10){
+    if(x%2==0)
+    console.log(x);
+    x++;
+}
