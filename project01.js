@@ -1,5 +1,6 @@
-//day-5 loop in javascript
+//the difference of ++i betwen i++;
 var i=10;
-while(i-->0){
-    console.log(i);
-}
+var x;
+x=i++
+console.log(x);
+console.log(i);
