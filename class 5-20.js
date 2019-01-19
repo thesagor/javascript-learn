@@ -7,9 +7,9 @@ while(i++<5){
 
 console.log("\n Reset code or check ++i \n");
 
-
-//++i
+//here we see ++i
 var i=0;
 while(++i<5){
     console.log(i);
+}
 //Here i start from 1 value

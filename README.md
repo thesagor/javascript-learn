@@ -17,3 +17,10 @@ Hey guys i am learning javascript from date 13-01-2019.Please pray for me.Thank 
     <li>3. i++ give one time added  more value</li>
 </ul>
 <hr>
+<b style="text-tranform:capitalize">Day 5.30 (Do while loop) </b>
+<ul>
+     <li>In this class learn 2 things</li>
+    <li>1. Do while loop can create work then logic one</li>
+    <li>2. Do while loop  makes nice loop</li>
+</ul>
+<hr>
