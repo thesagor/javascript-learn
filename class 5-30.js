@@ -7,3 +7,4 @@ do{
 }
 //do while loop check
 while(i<10);
+//Do while mostly related with while loop...
