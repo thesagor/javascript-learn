@@ -1,4 +1,4 @@
-Hey guys i am learning javascript from date 13-01-2019.Please pray for me.Thank you.
+<h3>Hey guys i am learning javascript from date 13-01-2019.Please pray for me.Thank you.</h3>
 
 <b style="text-tranform:capitalize">Day 5.10 (while loop,condition,break</b>
 <ul>
@@ -9,7 +9,7 @@ Hey guys i am learning javascript from date 13-01-2019.Please pray for me.Thank 
 </ul>
 <hr>
 
-<b style="text-tranform:capitalize">Day 5.20 (i++ and ++i) </b>
+<b style="text-tranform:capitalize">Day 5.20 -learning is awesome (i++ and ++i) </b>
 <ul>
      <li>In this class learn 2 things</li>
     <li>1. i++ means first return value of i then added one</li>
