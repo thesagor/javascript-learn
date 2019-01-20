@@ -31,3 +31,11 @@
     <li>Showing odd and even number using for loop</li>
 </ul>
 <hr>
+
+<b style="text-tranform:capitalize">Day 5.50 (For loop) </b>
+<ul>
+     <li>Multiple for loop</li>
+    <li> multiple variable code for loop</li>
+    <li>Number increasing decresing one way</li>
+</ul>
+<hr>
