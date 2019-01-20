@@ -1,6 +1,7 @@
 //For loop start from here
-var ii;
-for (i=0;i<=20;i++){
+var i;
+for (i=1;i<=20;i+=2){
     console.log(i);
 }
-//simple code of for loop
+
+//simple code of for lshowing ood number using for loop
