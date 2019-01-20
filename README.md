@@ -39,3 +39,10 @@
     <li>Number increasing decresing one way</li>
 </ul>
 <hr>
+<b style="text-tranform:capitalize">Day 5.60 (For loop) </b>
+<ul>
+     <li>Find out a factorial number with for loop</li>
+    <li> check number factorial from 1 to 10</li>
+    <li>three way to find factorial from 1 to 10</li>
+</ul>
+<hr>
