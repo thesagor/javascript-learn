@@ -24,3 +24,10 @@
     <li>2. Do while loop  makes nice loop</li>
 </ul>
 <hr>
+<b style="text-tranform:capitalize">Day 5.40 (For loop) </b>
+<ul>
+     <li>Simple for loop code run</li>
+    <li> Run code for exact number</li>
+    <li>Showing odd and even number using for loop</li>
+</ul>
+<hr>
