@@ -46,3 +46,18 @@
     <li>three way to find factorial from 1 to 10</li>
 </ul>
 <hr>
+
+<b style="text-tranform:capitalize">Day 5.70 (Number series with For loop) </b>
+<ul>
+     <li>Create simple number series</li>
+    <li> Number series with suire-1</li>
+    <li>Number series with a+b </li>
+</ul>
+<hr>
+
+<b style="text-tranform:capitalize">Day 5.80 (Daharapat with For loop) </b>
+<ul>
+     <li>Bangla dharapat ber kora</li>
+    <li> check number Shrug from 1 to 10</li>
+</ul>
+<hr>
